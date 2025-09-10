@@ -10,7 +10,7 @@ A peer-reviewed paper describing this project is available here, with the follow
 
 Standley CJ, Graeden E, Kerr J, Sorrell EM, Katz R. Decision support for evidence-based integration of disease control: A proof of concept for malaria and schistosomiasis. PLOS Neglected Tropical Diseases, 2018; 12 (4): e0006328. DOI: 10.1371/journal.pntd.0006328
 
-The Georgetown University Center for Global Health Science and Security, working with Talus Analytics, has created and maintains this site for use by researchers, decision-makers and other interested parties. We encourage you to use the data from this site. If you do, though, please use the following citation:
+The Georgetown University Center for Global Health Science and Security has created and maintains this site for use by researchers, decision-makers and other interested parties. We encourage you to use the data from this site. If you do, though, please use the following citation:
 
 Georgetown University Center for Global Health Science & Security. Integrated Neglected Tropical Disease Tool. Washington, DC: Georgetown University. Available at 
 
